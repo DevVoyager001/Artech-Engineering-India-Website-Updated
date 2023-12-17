@@ -357,7 +357,7 @@ SERVICE SECTION */
 
 .contact{
     height: 70vh;
-    width: 100vw;
+    width: 100%;
     background: linear-gradient(rgba(20, 20, 20, 0.725)50%,rgba(20, 20, 20, 0.725)50%), url(./service-img/pexels-pixabay-327049.jpg);
     background-size: cover;
     background-attachment: fixed;
@@ -467,7 +467,7 @@ SERVICE SECTION */
 
   .footer{
     background-color: rgba(2, 2, 2, 0.581);
-    width: 100vw;
+    width: 100%;
     height: fit-content;
     position: relative;
   }
